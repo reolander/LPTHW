@@ -1,0 +1,1 @@
+# Well this exercise is about reading code, debugging and some guidelines about the usage of ifs and loops.
